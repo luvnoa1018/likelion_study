@@ -65,5 +65,7 @@ ex) Wikipedia, 네이버 블로그
 ## 개발 환경 세팅
 
 ### 1. VS Code
+#### 적기
 
 ### 2. Codepen, Replit
+#### 적기
