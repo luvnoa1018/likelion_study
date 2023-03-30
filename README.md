@@ -95,5 +95,5 @@ Font 사이즈가 중요. 가독성을 높여줌
 Codepen을 사용해서 web browser에서 HTML, CSS 그리고 JavaScript를 한 번에 실시간으로 결과물을 확인 해볼 수 있음.
 
 #### Replit
-Codepen과 비슷하지만 조금 더 실제 개발 환경과 비슷함
-local 환ㄱㅇ
+Codepen과 비슷하지만 조금 더 실제 개발 환경과 비슷함  
+local 환경에서 작업하지 못하지만 인터넷 연결이 있을 때 활용 가능
