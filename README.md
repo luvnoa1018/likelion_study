@@ -80,7 +80,8 @@ Java != JavaScript.
 
 ### 3. 개발자 도구 사용해보기
 #### 브라우저로 HTML 요소 확인하기
-
+크롬에서 개발자 도구를 띄우면 HTML/CSS/JavaScript 등 요소 내용, 에러 로그, 네트워크 통신 정보를 알 수 있음  
+mac 단축키: alt + command + i
 
 # 챕터4
 ## 개발 환경 세팅
