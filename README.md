@@ -87,7 +87,8 @@ mac 단축키: alt + command + i
 ## 개발 환경 세팅
 
 ### 1. VS Code
-#### 적기
+Extension tool을 사용해서 편리한 개발 환경 구축  
+Font 사이즈가 중요. 가독성을 높여줌
 
 ### 2. Codepen, Replit
 #### 적기
