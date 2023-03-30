@@ -59,19 +59,28 @@ IP 주소 - 네트워크에서 컴퓨터가 부여받는 고유한 주소
 
 ### 9. IP, Port 그리고 DNS (4)
 #### DNS
+URL을 해석하여 IP주소로 변환하는 서버
 
 # 챕터3
 ## 웹 페이지를 이루는 삼총사 - HTML, CSS, JavaScript
 
 ### 1. HTML
 #### HTML
+HTML - Hyper Text Markup Language
 
 ### 2. CSS, JavaScript
 #### CSS
+CSS - Cascade style sheet
 #### JavaScript
+Java != JavaScript. 
+사용자와 상호작용  
+브라우저 제어  
+필드에 값을 입력함으로 수정/변형  
+백엔드 영역에서도 사용
 
 ### 3. 개발자 도구 사용해보기
 #### 브라우저로 HTML 요소 확인하기
+
 
 # 챕터4
 ## 개발 환경 세팅
