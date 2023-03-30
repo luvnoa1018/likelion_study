@@ -28,9 +28,12 @@ ex) Wikipedia, 네이버 블로그
 
 ### 3. HTTP와 URL (1)
 #### HTTP와 URL (1)
+Hyper Text Transfer Protocol
 
 ### 4. HTTP와 URL (2)
 #### HTTP와 URL (2)
+Uniform Resourse Locator=URL. 
+인터넷상에 위치해 있는 각종 자원들의 주소체계
 
 ### 5. 쿠키와 세션
 #### 쿠키
