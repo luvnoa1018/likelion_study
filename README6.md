@@ -1,12 +1,14 @@
 # 1. 폼과 유효성 검사
 ## Form 이란?
 폼, 입력 폼은 웹 프로그래밍의 기술의 하나이다. 클라이언트가 정보를 입력 · 선택하고, 웹 서버 등의 폼을 처리하는 에이전트로 제출하기 위한 기구이다.
+<blockquote>
 <body>
     <form action="" method="" enctype="">
         <input type="text" name="test"> <br><br>
         <input type="submit">
     </form>
 </body>
+</blockquote>
 HTML의 폼은 위의 코드와 같이 클라이언트에게 보낼 Input 태그를 감싸는 형태로 작성된다.
 
 form 태그의 속성인
